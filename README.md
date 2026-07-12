@@ -11,5 +11,7 @@ pip install -r requirements.txt
 
 python main.py
 
+## USAGE:
 Ctrl+Alt+S: Open settings menu
+
 Ctrl+Alt+H: Hide / Show captions
