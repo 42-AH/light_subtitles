@@ -1,0 +1,4 @@
+vosk>=0.3.45
+soundcard>=0.4.3
+numpy>=1.24
+pynput>=1.7
